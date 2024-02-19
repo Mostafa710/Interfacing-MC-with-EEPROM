@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Interfacing MC with EEPROM", "Interfacing MC with EEPROM\Interfacing MC with EEPROM.cproj", "{96567FE7-345C-46BD-8204-1E4E1A96A9DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96567FE7-345C-46BD-8204-1E4E1A96A9DA}.Debug|AVR.ActiveCfg = Debug|AVR
+		{96567FE7-345C-46BD-8204-1E4E1A96A9DA}.Debug|AVR.Build.0 = Debug|AVR
+		{96567FE7-345C-46BD-8204-1E4E1A96A9DA}.Release|AVR.ActiveCfg = Release|AVR
+		{96567FE7-345C-46BD-8204-1E4E1A96A9DA}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
